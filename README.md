@@ -1,5 +1,6 @@
 <img src="https://github.com/user-attachments/assets/baa81c99-714f-4a22-9b7b-0d422ea8084c" alt="img" width="2800" height="300"/>
 # 💫 About Me:
+<br>
 I am a passionate final-year student specializing in full-stack development with expertise in the MERN stack, TypeScript, and Next.js. My technical toolkit includes Java, Kotlin, JavaScript, and TypeScript, with experience in databases such as MongoDB and MySQL.<br><br>I am proficient in data structures and algorithms (DSA) using Java, and I enjoy tackling complex problems in both frontend and backend development. My core interest lies in building scalable, user-friendly web applications, and I am always eager to learn new technologies.<br><br>I'm currently looking for opportunities to grow my career as a full-stack developer, where I can contribute and further enhance my technical skills.<br><br>Feel free to explore my projects, and let's collaborate!<br><br>
 
 
